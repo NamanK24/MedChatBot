@@ -1,4 +1,4 @@
-# Next-Gemini-ChatApp
+# Next-ChatApp
 
 ## Introduction
 
